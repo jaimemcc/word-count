@@ -1,5 +1,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/coderefinery/word-count/HEAD)
 
+[![DOI](https://sandbox.zenodo.org/badge/368438116.svg)](https://sandbox.zenodo.org/badge/latestdoi/368438116)
+
 # Word count example
 
 These programs will count words in a given text, plot a bar chart of the 10
@@ -14,3 +16,4 @@ law](https://en.wikipedia.org/wiki/Zipf%27s_law) on the two most common words.
 We use this example in two [CodeRefinery](https://coderefinery.org/) lessons:
 - https://coderefinery.github.io/reproducible-research/
 - https://coderefinery.github.io/documentation/
+
